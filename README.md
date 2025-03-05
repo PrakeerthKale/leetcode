@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/PrakeerthKale/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PrakeerthKale/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrakeerthKale/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PrakeerthKale/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PrakeerthKale/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PrakeerthKale/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/PrakeerthKale/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrakeerthKale/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Linked List
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrakeerthKale/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
