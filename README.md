@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PrakeerthKale/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/PrakeerthKale/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/PrakeerthKale/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Greedy
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrakeerthKale/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/PrakeerthKale/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
