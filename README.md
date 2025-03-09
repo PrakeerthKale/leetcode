@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PrakeerthKale/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PrakeerthKale/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PrakeerthKale/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/PrakeerthKale/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PrakeerthKale/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrakeerthKale/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/PrakeerthKale/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/PrakeerthKale/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PrakeerthKale/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakeerthKale/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/PrakeerthKale/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakeerthKale/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Prefix Sum
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/PrakeerthKale/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
