@@ -1,10 +1,7 @@
 class Solution:
     def longestNiceSubarray(self, nums: List[int]) -> int:
-        n = len(nums)
-        b = 0
-        s = 0
-        m = 0
-        for e in range(n):
+        b, s, m = 0, 0, 0
+        for e in range(len(nums)):
             while b & nums[e]:
                 b ^= nums[s]
                 s += 1
