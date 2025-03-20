@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PrakeerthKale/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrakeerthKale/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/PrakeerthKale/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakeerthKale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PrakeerthKale/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PrakeerthKale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
@@ -115,9 +116,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrakeerthKale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/PrakeerthKale/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakeerthKale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PrakeerthKale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PrakeerthKale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakeerthKale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakeerthKale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
