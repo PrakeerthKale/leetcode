@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakeerthKale/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/PrakeerthKale/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3379-score-of-a-string](https://github.com/PrakeerthKale/leetcode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/PrakeerthKale/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/PrakeerthKale/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
