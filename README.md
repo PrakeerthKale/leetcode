@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/PrakeerthKale/leetcode/tree/master/1656-count-good-triplets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PrakeerthKale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PrakeerthKale/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakeerthKale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PrakeerthKale/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/PrakeerthKale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakeerthKale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrakeerthKale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/PrakeerthKale/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrakeerthKale/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0868-push-dominoes](https://github.com/PrakeerthKale/leetcode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/PrakeerthKale/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2128-reverse-prefix-of-word](https://github.com/PrakeerthKale/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PrakeerthKale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PrakeerthKale/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -220,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/PrakeerthKale/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
