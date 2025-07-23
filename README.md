@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrakeerthKale/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PrakeerthKale/leetcode/tree/master/0007-reverse-integer) |
 | [0368-largest-divisible-subset](https://github.com/PrakeerthKale/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrakeerthKale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrakeerthKale/leetcode/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrakeerthKale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrakeerthKale/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Geometry
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrakeerthKale/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
