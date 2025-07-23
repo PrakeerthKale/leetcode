@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrakeerthKale/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0868-push-dominoes](https://github.com/PrakeerthKale/leetcode/tree/master/0868-push-dominoes) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PrakeerthKale/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/PrakeerthKale/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/PrakeerthKale/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2128-reverse-prefix-of-word](https://github.com/PrakeerthKale/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/PrakeerthKale/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/PrakeerthKale/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrakeerthKale/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/PrakeerthKale/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PrakeerthKale/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PrakeerthKale/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
