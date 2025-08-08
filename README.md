@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PrakeerthKale/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PrakeerthKale/leetcode/tree/master/0007-reverse-integer) |
 | [0368-largest-divisible-subset](https://github.com/PrakeerthKale/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0826-soup-servings](https://github.com/PrakeerthKale/leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrakeerthKale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PrakeerthKale/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/PrakeerthKale/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PrakeerthKale/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/PrakeerthKale/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/PrakeerthKale/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0826-soup-servings](https://github.com/PrakeerthKale/leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/PrakeerthKale/leetcode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PrakeerthKale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PrakeerthKale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PrakeerthKale/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/PrakeerthKale/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
