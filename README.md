@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PrakeerthKale/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PrakeerthKale/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PrakeerthKale/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/PrakeerthKale/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PrakeerthKale/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2689-rearranging-fruits](https://github.com/PrakeerthKale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PrakeerthKale/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PrakeerthKale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/PrakeerthKale/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2529-range-product-queries-of-powers](https://github.com/PrakeerthKale/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PrakeerthKale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/PrakeerthKale/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/PrakeerthKale/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PrakeerthKale/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PrakeerthKale/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/PrakeerthKale/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakeerthKale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PrakeerthKale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
