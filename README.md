@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PrakeerthKale/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/PrakeerthKale/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/PrakeerthKale/leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/PrakeerthKale/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PrakeerthKale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrakeerthKale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/PrakeerthKale/leetcode/tree/master/1448-maximum-69-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/PrakeerthKale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/PrakeerthKale/leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/PrakeerthKale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/PrakeerthKale/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/PrakeerthKale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/PrakeerthKale/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/PrakeerthKale/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/PrakeerthKale/leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/PrakeerthKale/leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/PrakeerthKale/leetcode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PrakeerthKale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PrakeerthKale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -336,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/PrakeerthKale/leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/PrakeerthKale/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
