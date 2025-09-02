@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrakeerthKale/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/PrakeerthKale/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PrakeerthKale/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PrakeerthKale/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakeerthKale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PrakeerthKale/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PrakeerthKale/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/PrakeerthKale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrakeerthKale/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PrakeerthKale/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PrakeerthKale/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/PrakeerthKale/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/PrakeerthKale/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/PrakeerthKale/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PrakeerthKale/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/PrakeerthKale/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PrakeerthKale/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Matrix
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/PrakeerthKale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/PrakeerthKale/leetcode/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PrakeerthKale/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PrakeerthKale/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/PrakeerthKale/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
