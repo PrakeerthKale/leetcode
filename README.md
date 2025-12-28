@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/PrakeerthKale/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PrakeerthKale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/PrakeerthKale/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PrakeerthKale/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakeerthKale/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrakeerthKale/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakeerthKale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0794-swim-in-rising-water](https://github.com/PrakeerthKale/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PrakeerthKale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/PrakeerthKale/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PrakeerthKale/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/PrakeerthKale/leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/PrakeerthKale/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PrakeerthKale/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrakeerthKale/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/PrakeerthKale/leetcode/tree/master/3227-find-missing-and-repeated-values) |
