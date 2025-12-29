@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/PrakeerthKale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/PrakeerthKale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PrakeerthKale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PrakeerthKale/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/PrakeerthKale/leetcode/tree/master/0165-compare-version-numbers) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrakeerthKale/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0756-pyramid-transition-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/PrakeerthKale/leetcode/tree/master/0868-push-dominoes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PrakeerthKale/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PrakeerthKale/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/PrakeerthKale/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PrakeerthKale/leetcode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PrakeerthKale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PrakeerthKale/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrakeerthKale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/PrakeerthKale/leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PrakeerthKale/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
