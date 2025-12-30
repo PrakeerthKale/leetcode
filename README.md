@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/PrakeerthKale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/PrakeerthKale/leetcode/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/PrakeerthKale/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/PrakeerthKale/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/PrakeerthKale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/PrakeerthKale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/PrakeerthKale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/PrakeerthKale/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/PrakeerthKale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/PrakeerthKale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PrakeerthKale/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/PrakeerthKale/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/PrakeerthKale/leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/PrakeerthKale/leetcode/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/PrakeerthKale/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/PrakeerthKale/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PrakeerthKale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrakeerthKale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/PrakeerthKale/leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/PrakeerthKale/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/PrakeerthKale/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PrakeerthKale/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/PrakeerthKale/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
