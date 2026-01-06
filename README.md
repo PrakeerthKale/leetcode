@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/PrakeerthKale/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrakeerthKale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/PrakeerthKale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/PrakeerthKale/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/PrakeerthKale/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/PrakeerthKale/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrakeerthKale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/PrakeerthKale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2793-count-the-number-of-complete-components](https://github.com/PrakeerthKale/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrakeerthKale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/PrakeerthKale/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrakeerthKale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
