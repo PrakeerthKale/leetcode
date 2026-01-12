@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/PrakeerthKale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/PrakeerthKale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrakeerthKale/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/PrakeerthKale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrakeerthKale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/PrakeerthKale/leetcode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PrakeerthKale/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/PrakeerthKale/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/PrakeerthKale/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PrakeerthKale/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1266-minimum-time-visiting-all-points](https://github.com/PrakeerthKale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PrakeerthKale/leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrakeerthKale/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/PrakeerthKale/leetcode/tree/master/1448-maximum-69-number) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/PrakeerthKale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/PrakeerthKale/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PrakeerthKale/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Matrix
