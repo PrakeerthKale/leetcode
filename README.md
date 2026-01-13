@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PrakeerthKale/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/PrakeerthKale/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PrakeerthKale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3453-separate-squares-i](https://github.com/PrakeerthKale/leetcode/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PrakeerthKale/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PrakeerthKale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/PrakeerthKale/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PrakeerthKale/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrakeerthKale/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3453-separate-squares-i](https://github.com/PrakeerthKale/leetcode/tree/master/3453-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/PrakeerthKale/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
