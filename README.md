@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/PrakeerthKale/leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/PrakeerthKale/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PrakeerthKale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/PrakeerthKale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/PrakeerthKale/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakeerthKale/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrakeerthKale/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0868-push-dominoes](https://github.com/PrakeerthKale/leetcode/tree/master/0868-push-dominoes) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/PrakeerthKale/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/PrakeerthKale/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/PrakeerthKale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/PrakeerthKale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PrakeerthKale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/PrakeerthKale/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PrakeerthKale/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/PrakeerthKale/leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PrakeerthKale/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/PrakeerthKale/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PrakeerthKale/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
