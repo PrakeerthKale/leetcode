@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/PrakeerthKale/leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PrakeerthKale/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PrakeerthKale/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/PrakeerthKale/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-find-missing-and-repeated-values](https://github.com/PrakeerthKale/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PrakeerthKale/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/PrakeerthKale/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PrakeerthKale/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/PrakeerthKale/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3379-score-of-a-string](https://github.com/PrakeerthKale/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/PrakeerthKale/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/PrakeerthKale/leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/PrakeerthKale/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/PrakeerthKale/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/PrakeerthKale/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/PrakeerthKale/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/PrakeerthKale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -467,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrakeerthKale/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrakeerthKale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/PrakeerthKale/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
