@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakeerthKale/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/PrakeerthKale/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PrakeerthKale/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/PrakeerthKale/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/PrakeerthKale/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2478-longest-nice-subarray](https://github.com/PrakeerthKale/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/PrakeerthKale/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PrakeerthKale/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/PrakeerthKale/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PrakeerthKale/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2463-minimum-total-distance-traveled](https://github.com/PrakeerthKale/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/PrakeerthKale/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PrakeerthKale/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/PrakeerthKale/leetcode/tree/master/2689-rearranging-fruits) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/PrakeerthKale/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/PrakeerthKale/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/PrakeerthKale/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2463-minimum-total-distance-traveled](https://github.com/PrakeerthKale/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/PrakeerthKale/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/PrakeerthKale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PrakeerthKale/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
